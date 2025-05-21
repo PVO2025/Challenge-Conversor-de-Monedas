@@ -1,6 +1,6 @@
 # 💱 Conversor de Monedas - Desafío de Programación Java
 
-Este es un proyecto de **conversor de monedas** desarrollado en Java, como parte de un desafío de programación. El programa permite consultar en tiempo real el valor de distintas monedas utilizando una API externa de tasas de cambio.
+Este es un proyecto de **conversor de monedas** desarrollado en Java, como parte de un desafío de programación de ALURA LATAM. El programa permite consultar en tiempo real el valor de distintas monedas utilizando una API externa de tasas de cambio.
 
 ---
 
@@ -25,13 +25,6 @@ Durante el desarrollo de este proyecto se aplicaron los siguientes conceptos:
 - Git y GitHub
 
 ---
-## 📦 Estructura del proyecto
-
-├── src/
-│   ├── ApiMonedas.java       # Lógica para consumir la API de tipo de cambio
-│   ├── Moneda.java           # Clase que representa una moneda
-│   └── Principal.java        # Clase principal con menú interactivo
-└── README.md
 
 ## 🖥️ Funcionalidades del menú
 
@@ -59,14 +52,19 @@ Cada opción solicita una cantidad y realiza la conversión en tiempo real usand
 
 ## 📸 Capturas de pantalla
 
-
+1- Iniciamos el programa.
 
  ![imagen](https://github.com/user-attachments/assets/c1ac5f40-f29b-4bcc-befa-ac10d0f7a566)
 
+2- Elegimos una opción. En este caso  elegimos la opción 1.
+
  ![imagen](https://github.com/user-attachments/assets/90b2a31b-e6d3-4f66-9264-f35170371386)
 
+3- Ingresamos la cantidad a convertir y se se muestra el resultado.
 
  ![imagen](https://github.com/user-attachments/assets/b79e4e0b-ae67-4f2c-98c3-4544b18cb485)
+
+4- Salimos del programa eligiendo la opción 7. 
 
  ![imagen](https://github.com/user-attachments/assets/e3ff5db9-3db5-498d-bd7b-5e3f03db42ca)
 
